@@ -2,7 +2,7 @@
 Custom interactive CLI made in C++.
 
 # About
-I made a custom command line interface in Java a little while back (you can view this [here](https://github.com/the-antibody/java-cli),<br />
+I made a custom command line interface in Java a little while back (you can view this [here](https://github.com/the-antibody/java-cli)),<br />
 so I decided to remake this project in C++. <br />
 **This version is much better lol**
 
